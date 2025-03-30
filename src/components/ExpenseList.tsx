@@ -53,6 +53,7 @@ const ExpenseList = ({ expenses, onDelete }: props) => {
             );
           })}
         </tbody>
+
         <tfoot>
           <tr>
             <td>
